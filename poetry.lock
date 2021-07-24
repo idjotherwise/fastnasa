@@ -450,8 +450,8 @@ python-versions = "*"
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.8"
-content-hash = "6fedbc2298a754052168e772a3791bcad55c9730bb80a64e4e8851488be1bd1c"
+python-versions = "3.8.1"
+content-hash = "084679ef9e95f6cb3a12ddbfced8395c6971a6a429e14d96d4bd5e73c68750d2"
 
 [metadata.files]
 aiofiles = [
