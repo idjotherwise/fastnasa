@@ -86,7 +86,7 @@ p {
 }
 
 .navlist li {
-  float: left;
+  float: right;
 }
 
 .navlist li a {
